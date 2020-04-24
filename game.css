@@ -3,6 +3,10 @@ body
 	background: url("https://images.unsplash.com/photo-1550275994-cdc89cd1948f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80");
 	margin: 0;
 }
+html
+{
+	height:100%;
+}
 .square
 {
 	width: 30%;
